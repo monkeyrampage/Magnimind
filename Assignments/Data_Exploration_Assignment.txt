@@ -1,0 +1,9 @@
+1)  True
+
+2) All of them.
+
+a) has the value we need but no comment
+
+b) has the reason why it is three which is good but  answer is given as a string.
+
+c) I guess we can assign awesome to 5 but still missing an explanation why it is so 
